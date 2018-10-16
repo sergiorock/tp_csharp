@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{B0F04CBA-04F1-45C4-B14B-A260764D12C6}|Default">
+  <MonoDevelop.Ide.ItemProperties.Trabajo__Final PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Trabajo_Final/README.md">
+    <Files>
+      <File FileName="Trabajo_Final/Program.cs" Line="196" Column="38" />
+      <File FileName="Trabajo_Final/BaseDeDatos.cs" Line="204" Column="26" />
+      <File FileName="Trabajo_Final/Tarjeta.cs" Line="22" Column="24" />
+      <File FileName="Trabajo_Final/Carrito.cs" Line="34" Column="31" />
+      <File FileName="Trabajo_Final/Producto.cs" Line="33" Column="94" />
+      <File FileName="Trabajo_Final/Cliente.cs" Line="41" Column="5" />
+      <File FileName="Trabajo_Final/Venta.cs" Line="21" Column="52" />
+      <File FileName="Trabajo_Final/Beneficio.cs" Line="13" Column="18" />
+      <File FileName="Trabajo_Final/README.md" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Trabajo_Final" expanded="True" selected="True">
+            <Node name="Trabajo_Final" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

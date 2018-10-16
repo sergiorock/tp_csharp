@@ -1,0 +1,6 @@
+/Users/sergioRock/Projects/Trabajo_Final/Trabajo_Final/obj/x86/Debug/Trabajo_Final.csprojResolveAssemblyReference.cache
+/Users/sergioRock/Projects/Trabajo_Final/Trabajo_Final/obj/x86/Debug/Trabajo_Final.csproj.CoreCompileInputs.cache
+/Users/sergioRock/Projects/Trabajo_Final/Trabajo_Final/bin/Debug/Trabajo_Final.exe
+/Users/sergioRock/Projects/Trabajo_Final/Trabajo_Final/bin/Debug/Trabajo_Final.pdb
+/Users/sergioRock/Projects/Trabajo_Final/Trabajo_Final/obj/x86/Debug/Trabajo_Final.exe
+/Users/sergioRock/Projects/Trabajo_Final/Trabajo_Final/obj/x86/Debug/Trabajo_Final.pdb
